@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PersonalPlaner</string>
+    <string name="dialog_title">Some Title</string>
+    <string name="dialog_btn_neutral_label">CANCEL</string>
+    <string name="dialog_btn_positive_label">ADD</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
